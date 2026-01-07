@@ -1,0 +1,9 @@
+button , p{
+    display: inline-block;
+    padding: 5px;
+}
+div{
+    text-align: center;
+    background-color: coral;
+    border-radius: 3em;
+}
